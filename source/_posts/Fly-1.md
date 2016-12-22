@@ -14,5 +14,7 @@ tags:
 * ороро
 
 Мысхако
-<%- image_tag(http://img-fotki.yandex.ru/get/195419/4830711.9/0_af7bb_45c4ef3f_orig) %>
+<%- image_tag('http://img-fotki.yandex.ru/get/195419/4830711.9/0_af7bb_45c4ef3f_orig', [options]) %>
+
+<%- image_tag(http://img-fotki.yandex.ru/get/195419/4830711.9/0_af7bb_45c4ef3f_orig, [options]) %>
 
