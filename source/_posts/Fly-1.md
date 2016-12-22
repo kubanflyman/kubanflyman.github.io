@@ -13,5 +13,6 @@ tags:
 * ориттои
 * ороро
 
-1. Мысхако.
-{% img [class names] https://img-fotki.yandex.ru/get/195419/4830711.9/0_af7bb_45c4ef3f_orig [width] [height] [title text [Мысхако]] %}
+Мысхако
+<%- image_tag(http://img-fotki.yandex.ru/get/195419/4830711.9/0_af7bb_45c4ef3f_orig) %>
+
